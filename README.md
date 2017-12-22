@@ -1,1 +1,1 @@
-This project demonstrates speech recognition functionality using JavaScript. It uses annyang: https://www.talater.com/annyang . 
+This project demonstrates speech recognition functionality using JavaScript. It uses annyang: https://www.talater.com/annyang . Check out my tutorial for this code here: https://medium.com/@ivansifrim/speech-recognition-with-javascript-473ee939adfe
