@@ -1,0 +1,1 @@
+This project demonstrates speech recognition functionality using JavaScript. It uses annyang: https://www.talater.com/annyang . 
