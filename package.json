@@ -1,0 +1,11 @@
+{
+  "name": "annyangexample",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "ejs": "^2.5.7"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
